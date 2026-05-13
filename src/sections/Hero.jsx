@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useState, useRef } from "react";
-import profileImage from "../assets/placeholder.jpg";
+import profileImage from "../assets/profile.jpg";
 
 function Hero() {
     const [isUnlocked, setIsUnlocked] = useState(false);
