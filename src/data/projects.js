@@ -46,8 +46,8 @@ const projects = [
             "AI Simulation"
         ],
 
-        primaryButton: "GitHub",
-        secondaryButton: "Live Demo"
+        primaryButton: "Architecture",
+        secondaryButton: "Enterprise Project",
     }
 ];
 
